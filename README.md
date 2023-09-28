@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-<!-- Thanks to Quinn Hardbrook for scroll through animations-->
 <html>
     <head>
         <meta charset="utf-8">
         <link href = "https://fonts.googleapis.com/css?family=Playfair+Display|PT+Serif|Zen+Dots&display=swap" rel="stylesheet">
-        
     </head>
     <body>
         hi there
