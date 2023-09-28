@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1>Hello beings of the species Homo Sapians (or bots)</h1>
-        <p>I'm a neurodivergent unfortunate who dabbles in the art of bending chronically overpriced and incredibly recalcitrant hunks of silcon to my will.  I attempt to exercise my sovereignty over these intractable processors with the aid of HTML, CSS, JAVASCRIPT, and a nugatory and paltry amount of Commodore 64 BASIC.  (Adjectives such as trifling, microscopic, infinitesimal, and minute are adequete in describing the vast expance of my knowladge in these languages.)  I occastionally practice and exercise these advanced skills to wash my desk and clean my tear ducts.   </p>
+        <p>I'm a neurodivergent unfortunate who dabbles in the art of bending chronically overpriced and incredibly recalcitrant hunks of silcon to my will.  I attempt to exercise my sovereignty over these intractable processors with the aid of HTML, CSS, JAVASCRIPT, and a nugatory and paltry amount of Commodore 64 BASIC.  (Adjectives such as trifling, microscopic, infinitesimal, and minute are adequete in describing the vast expance of my knowladge in these languages.)  I occastionally practice and exercise these advanced skills, mainly to wash my desk, clean my tear ducts, and wear my mouse down clicking the restart button.  During such times, I   </p>
     </body>
 </html>
 
