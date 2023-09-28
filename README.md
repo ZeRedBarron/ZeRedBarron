@@ -5,7 +5,7 @@
         <link href = "https://fonts.googleapis.com/css?family=Playfair+Display|PT+Serif|Zen+Dots&display=swap" rel="stylesheet">
     </head>
     <body>
-        <h1 style = "text-align: center; font-family: 'Aparajita', 'PT Serif', 'Cambria', serif;' >HI THERE</h1>
+        <h1 style = "text-align: center; font-family: 'Aparajita', 'PT Serif', 'Cambria', serif;'">HI THERE</h1>
         hi there
     </body>
 </html>
